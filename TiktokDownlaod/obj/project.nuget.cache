@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xxGwZHT4keUeI0JxC7DtGCSx50IuoSslXk46xSoxROWPUoNroyRGAOfZK1c81MWppDmF3qyfe02z2mpMA/IxJw==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\TiktokDownlaod\\TiktokDownlaod\\TiktokDownlaod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GIGABYTE\\.nuget\\packages\\htmlagilitypack\\1.11.59\\htmlagilitypack.1.11.59.nupkg.sha512",
+    "C:\\Users\\GIGABYTE\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
